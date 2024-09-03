@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Classic, famous, good looking and good sound
+EAPI=8
+HOMEPAGE=https://archive.org/details/vector_td#
+INHERIT=desktop
+LICENSE=abandoned
+RDEPEND=app-emulation/ruffle
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://archive.org/download/vector_td/VectorDR.swf
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_md5_=a4ebfa95569f7edbc509e23ff6844765
