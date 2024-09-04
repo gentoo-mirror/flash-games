@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=N
+Exec=ruffle /opt/Nv2-Linux.swf
+Terminal=false
+Hidden=false
+Categories=Game
+Comment=Game from 2004, famous and popular https://en.wikipedia.org/wiki/N_(video_game)
