@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Vector TD
-Exec=ruffle /opt/vector-td.swf
+Exec=ruffle /opt/VectorDR.swf
 Terminal=false
 Hidden=false
 Categories=Game

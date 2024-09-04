@@ -9,4 +9,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://archive.org/download/vector_td/VectorDR.swf
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=a4ebfa95569f7edbc509e23ff6844765
+_md5_=d3ae5a04ec9c173d68c1f96a363bdc0e

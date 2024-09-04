@@ -9,7 +9,7 @@ DESCRIPTION="Classic, famous, good looking and good sound"
 HOMEPAGE="https://archive.org/details/vector_td#"
 SRC_URI="https://archive.org/download/vector_td/VectorDR.swf"
 
-S="${WORKDIR}"
+S="${DISTDIR}"
 
 LICENSE="abandoned"
 SLOT="0"
@@ -23,8 +23,8 @@ RESTRICT="strip"
 QA_PREBUILT="*"
 
 src_install() {
-	insinto /opt
-	doins *.swf
+	insinto /opt/
+	doins VectorDR.swf
 
 	domenu "${FILESDIR}/vector-td.desktop"
 }
