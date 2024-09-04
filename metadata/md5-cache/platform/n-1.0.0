@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Classic, famous. Run and jump to open the door
+EAPI=8
+HOMEPAGE=https://www.thewayoftheninja.org/n.html
+INHERIT=desktop
+LICENSE=N-2.0
+RDEPEND=app-emulation/ruffle
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://www.thewayoftheninja.org/Nv2-Linux.tar
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_md5_=ffe695249abf3d784cb821d240162eea
