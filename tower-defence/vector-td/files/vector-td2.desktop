@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Vector TD 2
+Exec=ruffle /opt/vectortd2v32Th.swf
+Terminal=false
+Hidden=false
+Categories=Game
+Comment=Game from 2007, famous and popular https://en.wikipedia.org/wiki/Vector_TDx

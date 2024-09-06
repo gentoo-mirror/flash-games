@@ -7,7 +7,10 @@ inherit desktop
 
 DESCRIPTION="Classic, famous, good looking and good sound"
 HOMEPAGE="https://archive.org/details/vector_td#"
-SRC_URI="https://archive.org/download/vector_td/VectorDR.swf"
+SRC_URI="
+	https://archive.org/download/vector_td/VectorDR.swf
+	https://archive.org/download/vectortd2v32Th/vectortd2v32Th.swf
+"
 
 S="${DISTDIR}"
 
@@ -24,7 +27,8 @@ QA_PREBUILT="*"
 
 src_install() {
 	insinto /opt/
-	doins VectorDR.swf
+	doins *.swf
 
 	domenu "${FILESDIR}/vector-td.desktop"
+	domenu "${FILESDIR}/vector-td2.desktop"
 }
