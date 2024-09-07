@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Xeno Tactic
+Exec=ruffle /opt/xeno-tactic.swf
+Terminal=false
+Hidden=false
+Categories=Game
+Comment=Tower Defence
