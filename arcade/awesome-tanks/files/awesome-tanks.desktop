@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Awesome Tanks
+Exec=ruffle /opt/awesome-tanks.swf
+Terminal=false
+Hidden=false
+Categories=Game
+Comment=Fun fast arcade, top-down, with coins collection and upgrades (RPG elements)
