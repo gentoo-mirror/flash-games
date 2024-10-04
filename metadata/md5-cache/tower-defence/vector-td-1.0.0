@@ -8,5 +8,5 @@ RDEPEND=app-emulation/ruffle
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://archive.org/download/vector_td/VectorDR.swf https://archive.org/download/vectortd2v32Th/vectortd2v32Th.swf
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
 _md5_=aebe23c6ee058b281cdc22719d950827

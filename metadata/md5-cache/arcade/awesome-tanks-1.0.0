@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Fun fast arcade, top-down, with coins collection and upgrades (RPG elements)
+EAPI=8
+HOMEPAGE=https://www.wikidata.org/wiki/Q130251998
+INHERIT=desktop
+LICENSE=freeware
+RDEPEND=app-emulation/ruffle
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://archive.org/download/awesome-tanks-2-13711/587840_awesomeTanks.swf -> awesome-tanks.swf https://archive.org/download/awesome-tanks-2-13711/599993_dingo.swf -> awesome-tanks-2.swf
+_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_md5_=0c9b5f17d441c973294a8a08746a09d3
