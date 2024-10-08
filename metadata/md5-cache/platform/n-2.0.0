@@ -8,5 +8,5 @@ RDEPEND=app-emulation/ruffle
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://www.thewayoftheninja.org/Nv2-Linux.tar
-_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=ffe695249abf3d784cb821d240162eea
